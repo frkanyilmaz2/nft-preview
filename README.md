@@ -18,12 +18,12 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Screenshot
 
-![(./images/Screenshot.png)]
+![](./images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/frkanyilmaz2/nft-preview)
+- Live Site URL: [](https://frkanyilmaz2.github.io/nft-preview/)
 
 ## My process
 
