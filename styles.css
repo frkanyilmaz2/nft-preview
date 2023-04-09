@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces&family=Hanken+Grotesk&family=Montserrat&family=Outfit&family=Source+Sans+Pro:wght@400;600;700&display=swap');
+
+*::before::after{
+    box-sizing: border-box;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #0D192C;
+    font-family:'Montserrat', serif ;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    width: 98%;
+}
+
+.container{
+    color: white;
+    background-color: #15263F;
+    padding: 2em;
+    border-radius: 25px;
+
+}
+
+.container img{
+    border-radius: 15px;
+}
+
+.text-area{
+    margin: 1em 0;
+}
+
+.title{
+    font-size: 20px;
+}
+
+.context{
+    margin: 1em 0;
+    width: 300px;
+    color: #8BACD9;
+
+}
+
+.price{
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 0;
+}
+
+.eth-price, .time{
+    display: flex;
+    align-items: center;
+    width: 40%;
+}
+
+.eth-price img,.time img{
+    padding-right: 0.5em ;
+    
+}
+
+.eth-price{
+    color:#00FFF8;
+    font-weight: 700;
+}
+.time{
+    color: #8BACD9;
+    
+}
+
+.footnote{
+    border-top: 1px solid #2E405A;
+    padding-top:1em;
+    margin-top: 1em;
+    width: 100%;
+    display: flex;
+    align-items: center;    
+}
+
+.footnote img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid green;
+    margin-right:0.5em;
+}
+
+.footnote span{
+    color: #8BACD9;
+}
+
+.attribution{
+    color: white;
+}
+
+.attribution a{
+    color: rgb(230, 159, 159);
+}
